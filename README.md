@@ -168,4 +168,4 @@ docker-compose down # destroys instance
 
 # License
 
-[MIT Licence](https://github.com/Manisso/fsociety/blob/master/LICENSE)
+[MIT Licence](https://github.com/OxDEAD0DE/fsociety/blob/main/LICENSE)
