@@ -113,7 +113,6 @@ Use Google Cloud Console [Cloud Shell](https://console.cloud.google.com/cloudshe
 
 Or use free Ubuntu VPS [c9.io](https://c9.io/)
 
-## [Docker](https://en.wikipedia.org/wiki/Docker_(software)) Usage ![docker logo](https://png.icons8.com/color/50/000000/docker.png)
 
 ### Dependecies
 
