@@ -101,20 +101,6 @@ A Penetration Testing Framework, you will have every script that a hacker needs.
 
 # Installation
 
-## Installation [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
-
-```bash
-bash <(wget -qO- https://git.io/vAtmB)
-```
-
-## Installation
-
-Download [Termux](https://play.google.com/store/apps/details?id=com.termux)
-
-```bash
-bash <(wget -qO- https://git.io/vAtmB)
-```
-
 Follow this video [Arif - Tech](https://www.youtube.com/watch?v=JwK5oOBjpgQ)
 
 ## Installation [Windows](https://wikipedia.org/wiki/Microsoft_Windows)[![alt tag](http://icons.iconarchive.com/icons/yootheme/social-bookmark/32/social-windows-button-icon.png)](https://fr.wikipedia.org/wiki/Microsoft_Windows)
